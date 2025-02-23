@@ -1,0 +1,36 @@
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Rampart+One&family=Zen+Dots&display=swap');
+
+/* font-family: 'Rampart One', cursive;
+font-family: 'Zen Dots', cursive; */
+
+body {
+  background-color: #202124;
+  color: #e0e0e0;
+  font-family: 'Zen Dots', cursive;
+}
+
+h1{
+    font-size: 75px;
+}
+
+p{
+    font-size: 25px;
+}
+
+.drum-icon {
+  width: 15%;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+  line-height: 60px;
+  background-color: #58aef5;
+}
+
+.footer span{
+  color: #f5f5f5!important;
+}
