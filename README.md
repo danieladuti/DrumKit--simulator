@@ -1,7 +1,12 @@
-# DrumKit--simulator
+# DrumKit simulator
 
-There is a little preview of the DrumKit Simulator:
-![image](https://github.com/user-attachments/assets/2c9031ab-6052-4d97-af1e-d9c3ec5bce47)
+This is a personal project from 2022, made under the guidance of the CNVA HUB courses. 
+(CNVA HUB is a high school club from Colegiul Național "Vasile Alecsandri" Iași that offers courses on C++, Web Development and Photography.)
+
+ - There is a little preview of the DrumKit Simulator:
+   <p></p>
+   
+   ![image](https://github.com/user-attachments/assets/2c9031ab-6052-4d97-af1e-d9c3ec5bce47)
 
 
 <!--
