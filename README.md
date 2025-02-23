@@ -1,5 +1,9 @@
 # DrumKit--simulator
 
+There is a little preview of the DrumKit Simulator:
+![image](https://github.com/user-attachments/assets/2c9031ab-6052-4d97-af1e-d9c3ec5bce47)
+
+
 <!--
 <h1 align="center">Hi 👋, here we have the ChiM (Childcare Manager)</h1>
 <h3 align="center">Developed this platform in the fourth semester of the faculty.</h3>
